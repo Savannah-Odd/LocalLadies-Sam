@@ -1,3 +1,10 @@
-nav {
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#BOE-img{
+    height: 70px;
+}
+.nav-item{
     font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
